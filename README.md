@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library Management System
 
 > ⚠️ **ATTENTION:** There are 2 issues that need your action. See [NEXT_STEPS.md](NEXT_STEPS.md) for instructions.
@@ -287,3 +288,7 @@ This will check:
 ## License
 
 MIT
+=======
+# LMS
+Library Management System
+>>>>>>> e11cc660b305791098b04f770536bf50a71e61da
